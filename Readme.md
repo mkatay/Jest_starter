@@ -2,6 +2,7 @@
 
 In an empty folder:
 >git clone **this repo url**
+
 >pnpm i
 
 - write a JS function in a JS file: **myFunction.js** 
